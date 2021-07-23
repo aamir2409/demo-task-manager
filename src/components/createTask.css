@@ -1,0 +1,43 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.task_main{
+    margin: 100px;
+    width:400px;
+    border: 1px solid lightgrey;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-bottom: 2px solid lightgrey;
+    background:#EDEDD0;
+    
+}
+
+.right_div{
+    padding-right: 5px;
+    border-left: 1px solid lightgray;
+}
+
+.right_div button{
+    border-color: white;
+}
+
+.container{
+    padding:20px;
+    background:#A6D6D6;   
+     
+}
+
+.input{
+    padding: 10px;
+    background:#A6D6D6;   
+}
+
+.bottom{
+    padding-bottom: 10px;
+    background:#A6D6D6;   
+    text-align: center;
+}
